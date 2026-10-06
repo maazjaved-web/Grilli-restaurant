@@ -24,11 +24,11 @@ A sleek, fully responsive, and interactive restaurant landing page built for **G
 
 ## 📁 Repository Structure
 
-​```text
+```text
 ├── assets/
 │   ├── css/          # Stylesheets
 │   ├── js/           # Interactive scripts
 │   └── images/       # High-res graphics & UI icons
 ├── index.html        # Main landing page
 └── favicon.ico       # Website favicon
-​```
+```
